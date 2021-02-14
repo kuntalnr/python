@@ -1,1 +1,3 @@
 In the windows command shell pip name_of_package downloads a model. pip is a python's manager and pulls module either a built-in/from internet 
+
+
